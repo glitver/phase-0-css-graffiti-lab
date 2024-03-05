@@ -1,1 +1,38 @@
 /* write your override styles here */
+#wall {
+    margin: 20px; 
+  }
+  
+  .tag-1 {
+    font-size: 18px; 
+  }
+  
+  #tag-2 {
+    border: 2px solid #333; 
+  }
+  
+  .slick.wicked {
+    display: flex; 
+    justify-content: center; 
+  }
+  
+  .parent {
+    padding: 10px; 
+  }
+  
+  #tag-4 {
+    background-color: #ff0; 
+  }
+  
+  #tag-5.slick {
+    color: #00f; 
+  }
+  
+  #tag-6 {
+    text-decoration: underline;
+  }
+  
+  #tag-7.slick {
+    font-weight: bold; 
+  }
+  
